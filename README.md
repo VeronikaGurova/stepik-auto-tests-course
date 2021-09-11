@@ -1,2 +1,3 @@
 # stepik-auto-tests-course
-ДЗ к курсу
+ДЗ к курсу: https://stepik.org/course/575/info
+
